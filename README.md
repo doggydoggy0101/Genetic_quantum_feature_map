@@ -50,6 +50,7 @@ The circuit can be optimized if the gates share the same rotation axis and param
 
 ## Reference
 
-[[arXiv:2105.12626v1] Automatic design of quantum feature maps](https://arxiv.org/abs/2105.12626) 
+[S. Altares-L´opez, A. Ribeiro, J.J. Garc´ıa-Ripoll, Automatic design of
+quantum feature maps, Quantum Science and Technology, vol. 6, no. 4, 2021.](https://iopscience.iop.org/article/10.1088/2058-9565/ac1ab1) 
 
 [https://algodaily.com/lessons/introduction-to-genetic-algorithms-in-python](https://algodaily.com/lessons/introduction-to-genetic-algorithms-in-python)
