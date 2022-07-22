@@ -1,6 +1,6 @@
 # Genetic quantum feature map
 
-This is an unofficial implementation of automatic generating quantum feature maps for **Quantum Support Vector Machine** by **Genetic Algorithm** from the paper: Automatic design of quantum feature maps.
+This is an official implementation for the paper: Genetically auto-generated quantum feature maps.
 
 ## Genetic Algorithm
 Genetic Algorithm (GA) is a nature-inspired algorithm that has extensively been used to solve optimization problems. It does not guarantee to always find the exact optimal solution; however, it may find a near-optimal solution in a limited time.
@@ -54,3 +54,9 @@ The circuit can be optimized if the gates share the same rotation axis and param
 quantum feature maps, Quantum Science and Technology, vol. 6, no. 4, 2021.](https://iopscience.iop.org/article/10.1088/2058-9565/ac1ab1) 
 
 [https://algodaily.com/lessons/introduction-to-genetic-algorithms-in-python](https://algodaily.com/lessons/introduction-to-genetic-algorithms-in-python)
+
+
+## Note
+For some reason multiprocessing does not always work with objects not defined in an imported module. Install multiprocess and replace multiprocessing with multiprocess in your imports if you get stuck using multiprocessing.
+
+[https://stackoverflow.com/questions/41385708/multiprocessing-example-giving-attributeerror](https://stackoverflow.com/questions/41385708/multiprocessing-example-giving-attributeerror)
