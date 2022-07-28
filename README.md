@@ -1,6 +1,6 @@
-# Genetically auto-generated quantum feature maps
+# Effects of fitness function in genetically auto-generated quantum feature maps
 
-This is an unofficial implement for the paper: Automatic design of quantum feature maps. In addition, it also verify and support the implementations in our new manuscript: Genetically auto-generated quantum feature maps. We have figured out some new functions including the adjustment on the multi-fitness function and introduced penalty weight with experiments on different data. We have also done some more investigation on optimizing circuits while remaining high accuracy.
+This is an unofficial implement for the paper: Automatic design of quantum feature maps. In addition, it also verify and support the implementations in our new manuscript: Effects of fitness function in genetically auto-generated quantum feature maps. We have figured out some new functions including the adjustment on the multi-fitness function and introduced penalty weight with experiments on different data. We have also done some more investigation on optimizing circuits while remaining high accuracy.
 
 ## Genetic Algorithm
 Genetic Algorithm (GA) is a nature-inspired algorithm that has extensively been used to solve optimization problems. It does not guarantee to always find the exact optimal solution; however, it may find a near-optimal solution in a limited time.
